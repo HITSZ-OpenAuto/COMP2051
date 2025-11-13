@@ -1,0 +1,34 @@
+ID: "COMP2051"
+SimilarID: []
+Name: "数字逻辑设计"
+CourseProperty:
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（计算机与电子通信）", "计算机（第二学士学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "COMP2051"
+  CourseName: "数字逻辑设计"
+  Credit: "3.5"
+  CourseHour: "56.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: "2023级作为计算机与电子通信大二上三选一的限选课"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 20
+    - Name: "实验"
+      Percentage: 20
+    - Name: "期末考试"
+      Percentage: 60
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: ""
+    - Name: "实验"
+      Hour: ""
