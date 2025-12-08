@@ -1,0 +1,38 @@
+SimilarID: []
+CourseProperty:
+- Major:
+  - Year: '2024'
+    Name:
+    - 2023级:工科试验班（计算机与电子通信）
+    Degree: 本
+  GradeSemesters:
+  - Grade: 大二
+    Semester: 秋
+  CourseType: 限选
+  CourseID: COMP2051
+  CourseName: 数字逻辑设计
+  Credit: 3.5
+  GPAInfluence: 考查
+  CourseHour: '56'
+  GroupCourse:
+    Link: ''
+    Desc: ''
+    Name: ''
+    Ids:
+    - ''
+    - ''
+    - ''
+  GradeComposition:
+  - Name: 作业
+    Percentage: 20
+  - Name: 实验
+    Percentage: 20
+  - Name: 期末考试
+    Percentage: 60
+  CourseHourComposition:
+  - Name: 授课
+    Hour: 36
+  - Name: 实验
+    Hour: 20
+ID: COMP2051
+Name: 数字逻辑设计
