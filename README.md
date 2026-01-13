@@ -9,7 +9,7 @@
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![作业20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
 ![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
-![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![期末考试50%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
 
 2023 级，这门课作为计算机与电子通信大二上三选一的[限选]课而改为考察。 2024 级随着培养方案调整变为计信集群的考试课。
 
