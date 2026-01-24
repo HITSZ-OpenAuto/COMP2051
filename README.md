@@ -54,6 +54,10 @@
 
 > 文 / [criwits](https://github.com/criwits), 2022.6
 
+时过境迁，2025 年的 AI 终于会写 verilog 了，这大大降低了实验的难度，不过还是要自己理解 AI 输出的内容，防止在检查环节被老师拷打
+
+> 文 / [Cecilia](https://github.com/mircecilia), 2026.1
+
 ## 相关实验仓库
 
 - [潜伏的数逻实验仓库](https://github.com/capoo-fan/class-experiment/tree/main/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF)
@@ -70,3 +74,7 @@
 - 2025秋的数字逻辑设计考试，可能是由于变成考试课或者教学评估，难度有所提升，主要体现在试卷题量大，容易写不完。
 
 > 文 / [PVZ&X](https://github.com/wpj9362)，2026.1
+
+25 秋考试难度大幅度提高，且作业是根据正确率扣分的，大家记得认真做作业
+
+> 文 / [Cecilia](https://github.com/mircecilia), 2026.1
