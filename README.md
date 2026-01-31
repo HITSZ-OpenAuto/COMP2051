@@ -1,51 +1,44 @@
-# 数字逻辑设计
+# COMP2051 - 数字逻辑设计
 
-**课程代码:** COMP2051
+![考查课（23级）](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE（23级）-green)
+![考试课（24级）](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE（24级）-red)
+
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86（23秋以前）-4-moccasin)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86（24秋之后）-3.5-moccasin)
+
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![作业20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
+![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
+![期末考试50%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
+
+2023 级，这门课作为计算机与电子通信大二上三选一的[限选]课而改为考察。 2024 级随着培养方案调整变为计信集群的考试课。
+
+本门课程授课内容与电类专业的[数字电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1009/)内容有很大相似度，作为计科的专业课，本门课程对电路的具体电路实现（即数字电子技术基础中的第三、第七和第八章）不做深入要求，对逻辑设计部分要求较高。
+
+实验部分和[数字电子技术实验](https://hoa.moe/docs/sophomore-spring/ee1010/)一样要求使用 vivado 写 verilog 语言并下板验证，但是本门课程实验难度更高，且每年实验内容都在变化，可谓是最创新的一门课程了。
+
+## 教材和参考书
+
+- 逻辑设计基础/Charles H. Roth,Jr  Larry L. Kinney 著，解晓萌、杨清洪译-7版-北京：清华大学出版社，2016.1，ISBN:9787302399148
+
+不会完全按照课本进行讲授，每年讲授内容也不完全相同，学习请以当年 PPT 为准，教材仅供参考。
+
+> 文 / [criwits](https://github.com/criwits), 2022.6
 
 ## 授课教师
 
-### 高翠芸
+- 高翠芸
+  - 一个非常负责的老师，上课条理清晰，面对疑问也会耐心解答，PPT做得简洁明了，每节课前会提前发到群里，偶尔抽查点到，但是认真听课会对学习这门课程有很大帮助，建议按时上课。
+    > 文 / [criwits](https://github.com/criwits), 2022.6
 
-一个非常负责的老师，上课条理清晰，面对疑问也会耐心解答，PPT做得简洁明了，每节课前会提前发到群里，偶尔抽查点到，但是认真听课会对学习这门课程有很大帮助，建议按时上课。
+- 张春慨
 
-> 文 / [criwits]([https://github.com/criwits](https://github.com/criwits)), 2022.6
+- 崔爱娇
+  - 崔老师非常认真负责，会尽量去认识班上的每位同学，因此前期点名较多。老师课上讲授细致，经常让同学回答问题，课下也会把PPT发到群里供大家复习。如果课上能跟着老师的节奏一起走，是非常有利于深化对所学知识的理解的。
+    > 文 / [PVZ&X](https://github.com/wpj9362)，2026.1
 
-### 张春慨
 
-### 崔爱娇
-
-崔老师非常认真负责，会尽量去认识班上的每位同学，因此前期点名较多。老师课上讲授细致，经常让同学回答问题，课下也会把PPT发到群里供大家复习。如果课上能跟着老师的节奏一起走，是非常有利于深化对所学知识的理解的。
-
-> 文 / [PVZ&X]([https://github.com/wpj9362](https://github.com/wpj9362)), 2026.1
-
-## 教材与参考书
-
-**逻辑设计基础**
-作者：Charles H. Roth,Jr / Larry L. Kinney | 出版社：清华大学出版社 | 版本：7版
-
-## 在线资源
-
-- [潜伏的数逻实验仓库]([https://github.com/capoo-fan/class-experiment/tree/main/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF](https://github.com/capoo-fan/class-experiment/tree/main/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF))
-  相关实验仓库
-
-## 考试
-
-考试难度中等，高分主要集中在 96，97 分段，较为友好，建议认真写作业，复习重点可以放在PPT上，尤其是各种模型的理解分析，掌握做题方法就可以。
-
-考试成绩出的很慢，需要大海捞人，一个多月才出。
-
-> 文 / [criwits]([https://github.com/criwits](https://github.com/criwits)), 2022.6
-
-考试题型：24秋和25秋的题型相似，有简答题、分析题、综合设计题（具体参考往年题）。试卷的考点主要集中在老师平时发的PPT上，老师也会把考试范围发给大家供参考，因此需要认真复习PPT的知识点和例题。
-2025秋的数字逻辑设计考试，可能是由于变成考试课或者教学评估，难度有所提升，主要体现在试卷题量大，容易写不完。
-
-> 文 / [PVZ&X]([https://github.com/wpj9362](https://github.com/wpj9362)), 2026.1
-
-25 秋考试难度大幅度提高，且作业是根据正确率扣分的，大家记得认真做作业。
-
-> 文 / [Cecilia]([https://github.com/mircecilia](https://github.com/mircecilia)), 2026.1
-
-## 实验
+## 关于实验
 
 实验很难（难度因人而异，不过没人觉得简单），因为其对于逻辑和细节要求都很高，耗时普遍较长。分为课上与课下两部分，课上部分尽量按时完成，遇到困难一定要及时请教老师与助教，提高解决问题的效率，老师会把课上部分推迟到下节课检查，还算比较人性（课上检查老师会检查上板结果，读一读代码，讲一下怎么实现的）。
 
@@ -59,12 +52,29 @@
 
 最后一次实验难度超大，需要大量时间和精力，bug 只能自己解决，可能需要几个晚上的头发吧，但是输出正确结果时还是很高兴的。
 
-> 文 / [criwits]([https://github.com/criwits](https://github.com/criwits)), 2022.6
+> 文 / [criwits](https://github.com/criwits), 2022.6
 
-时过境迁，2025 年的 AI 终于会写 verilog 了，这大大降低了实验的难度，不过还是要自己理解 AI 输出的内容，防止在检查环节被老师拷打。
+时过境迁，2025 年的 AI 终于会写 verilog 了，这大大降低了实验的难度，不过还是要自己理解 AI 输出的内容，防止在检查环节被老师拷打
 
-> 文 / [Cecilia]([https://github.com/mircecilia](https://github.com/mircecilia)), 2026.1
+> 文 / [Cecilia](https://github.com/mircecilia), 2026.1
 
-## 建议
+## 相关实验仓库
 
-不会完全按照课本进行讲授，每年讲授内容也不完全相同，学习请以当年 PPT 为准，教材仅供参考。
+- [潜伏的数逻实验仓库](https://github.com/capoo-fan/class-experiment/tree/main/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF)
+
+## 关于考试
+
+考试难度中等，高分主要集中在 96，97 分段，较为友好，建议认真写作业，复习重点可以放在PPT上，尤其是各种模型的理解分析，掌握做题方法就可以。
+
+考试成绩出的很慢，需要大海捞人，一个多月才出。
+
+> 文 / [criwits](https://github.com/criwits), 2022.6
+
+- 考试题型：24秋和25秋的题型相似，有简答题、分析题、综合设计题（具体参考往年题）。试卷的考点主要集中在老师平时发的PPT上，老师也会把考试范围发给大家供参考，因此需要认真复习PPT的知识点和例题。
+- 2025秋的数字逻辑设计考试，可能是由于变成考试课或者教学评估，难度有所提升，主要体现在试卷题量大，容易写不完。
+
+> 文 / [PVZ&X](https://github.com/wpj9362)，2026.1
+
+25 秋考试难度大幅度提高，且作业是根据正确率扣分的，大家记得认真做作业
+
+> 文 / [Cecilia](https://github.com/mircecilia), 2026.1
