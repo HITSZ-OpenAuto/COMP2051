@@ -1,31 +1,32 @@
 course_name = "数字逻辑设计"
-repo_type = "normal"
 course_code = "COMP2051"
-
+repo_type = "normal"
 description = """
 2023 级，这门课作为计算机与电子通信大二上三选一的[限选]课而改为考察。 2024 级随着培养方案调整变为计信集群的考试课。
 
 本门课程授课内容与电类专业的[数字电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1009/)内容有很大相似度，作为计科的专业课，本门课程对电路的具体电路实现（即数字电子技术基础中的第三、第七和第八章）不做深入要求，对逻辑设计部分要求较高。
 
-实验部分和[数字电子技术实验](https://hoa.moe/docs/sophomore-spring/ee1010/)一样要求使用 vivado 写 verilog 语言并下板验证，但是本门课程实验难度更高，且每年实验内容都在变化，可谓是最创新的一门课程了。"""
+实验部分和[数字电子技术实验](https://hoa.moe/docs/sophomore-spring/ee1010/)一样要求使用 vivado 写 verilog 语言并下板验证，但是本门课程实验难度更高，且每年实验内容都在变化，可谓是最创新的一门课程了。
+"""
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "高翠芸"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "一个非常负责的老师，上课条理清晰，面对疑问也会耐心解答，PPT做得简洁明了，每节课前会提前发到群里，偶尔抽查点到，但是认真听课会对学习这门课程有很大帮助，建议按时上课。"
 author = { name = "criwits", link = "https://github.com/criwits", date = "2022-06" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "张春慨"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "崔爱娇"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "崔老师非常认真负责，会尽量去认识班上的每位同学，因此前期点名较多。老师课上讲授细致，经常让同学回答问题，课下也会把PPT发到群里供大家复习。如果课上能跟着老师的节奏一起走，是非常有利于深化对所学知识的理解的。"
 author = { name = "PVZ&X", link = "https://github.com/wpj9362", date = "2026-01" }
-
 
 [[sections]]
 title = "教材与线上资源"
