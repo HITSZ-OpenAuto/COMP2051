@@ -1,0 +1,192 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814613,
+    "hash": "6401e1abf36e8be02b5ad9d5c77d1048548cb172"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754197446,
+    "hash": "092878353f1b1f7763825a489e4fb76bd632909d"
+  },
+  "README.md": {
+    "size": 5515,
+    "time": 1773428072,
+    "hash": "a6d46905df7cbde44dc91a9f65b23cd2f641ae44"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754197446,
+    "hash": "092878353f1b1f7763825a489e4fb76bd632909d"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754197446,
+    "hash": "092878353f1b1f7763825a489e4fb76bd632909d"
+  },
+  "exams/2020秋数字逻辑设计期末试题_WuuTang.pdf": {
+    "size": 3302208,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "exams/2024数字逻辑电子版解答.pdf": {
+    "size": 349460,
+    "time": 1765096332,
+    "hash": "b05787d1748f51b25631649eb780faadeb7a05a3"
+  },
+  "exams/2024秋数逻期末回忆版.pdf": {
+    "size": 174766,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "exams/2024秋数逻期末回忆版个人解答.pdf": {
+    "size": 2993341,
+    "time": 1764769418,
+    "hash": "ec5b7a89979e5bc26e6744488f59c14cd2e0e66c"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754197446,
+    "hash": "092878353f1b1f7763825a489e4fb76bd632909d"
+  },
+  "labs/2020/exp1/实验1-Vivado使用及组合电路的Verilog实现.docx": {
+    "size": 3429155,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp1/实验1-Vivado使用及组合电路的Verilog实现.pdf": {
+    "size": 2555190,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp1/实验1-vivado使用及组合电路的Verilog实现.pptx": {
+    "size": 3027573,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp2/实验2-寄存器设计.docx": {
+    "size": 153617,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp2/实验2-寄存器设计.pptx": {
+    "size": 1058185,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp3/实验3-计数器设计.docx": {
+    "size": 773670,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp3/实验3-计数器设计.pptx": {
+    "size": 411453,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp4/实验4-数码管控制器设计.docx": {
+    "size": 1209939,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp4/实验4-数码管控制器设计.pptx": {
+    "size": 1719663,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp5/~$5-状态机设计.docx": {
+    "size": 162,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp5/实验5-状态机设计.docx": {
+    "size": 166699,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp5/实验5-状态机设计.pptx": {
+    "size": 583224,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp6/实验6-综合设计实验-记忆游戏.docx": {
+    "size": 18949,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp6/实验6-综合设计实验-记忆游戏.pptx": {
+    "size": 567933,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2020/exp6/数字逻辑设计实验报告模板2020秋.docx": {
+    "size": 98804,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "labs/2024/exp3/README.md": {
+    "size": 4634,
+    "time": 1756109901,
+    "hash": "583c7bfc2a13fa41da6bb431a3404335510b8492"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754197446,
+    "hash": "092878353f1b1f7763825a489e4fb76bd632909d"
+  },
+  "notes/2021秋_hanswan/基本逻辑门.pdf": {
+    "size": 74306,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "notes/2021秋_hanswan/布尔代数.pdf": {
+    "size": 217137,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "notes/2021秋_hanswan/时序逻辑基础.pdf": {
+    "size": 728822,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "notes/2021秋_hanswan/时序逻辑电路的分析.pdf": {
+    "size": 379044,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "notes/2021秋_hanswan/时序逻辑电路的设计.pdf": {
+    "size": 618980,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "notes/2021秋_hanswan/组合逻辑器件.pdf": {
+    "size": 619876,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "notes/2021秋_hanswan/组合逻辑基础.pdf": {
+    "size": 390266,
+    "time": 1756109365,
+    "hash": "4e0e364684c0a7fb0ac13c853f86836251c93fa5"
+  },
+  "notes/2024_lsx/数字逻辑设计_lsx.pdf": {
+    "size": 12400300,
+    "time": 1765781770,
+    "hash": "110ebb0384b6ce92f0d29f109a88bba89f8b1fc6"
+  },
+  "notes/数字逻辑笔记.pdf": {
+    "size": 312629,
+    "time": 1765883266,
+    "hash": "ff79cf6858d612c269c2132bf187ca918008bf6a"
+  },
+  "readme.toml": {
+    "size": 5227,
+    "time": 1773428072,
+    "hash": "a6d46905df7cbde44dc91a9f65b23cd2f641ae44"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754197446,
+    "hash": "092878353f1b1f7763825a489e4fb76bd632909d"
+  }
+}
