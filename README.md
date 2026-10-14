@@ -1,11 +1,5 @@
 # COMP2051 - 数字逻辑设计
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 2023 级，这门课作为计算机与电子通信大二上三选一的[限选]课而改为考察。 2024 级随着培养方案调整变为计信集群的考试课。
 
